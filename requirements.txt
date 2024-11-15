@@ -1,0 +1,5 @@
+fastapi[standard]
+fastapi
+pydantic
+# redis
+debugpy
