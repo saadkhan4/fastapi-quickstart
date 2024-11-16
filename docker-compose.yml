@@ -6,7 +6,6 @@ services:
     command: fastapi dev app/main.py --host 0.0.0.0
     ports:
       - 8000:8000
-      - 5678:5678
     volumes:
       - .:/code
     depends_on:
