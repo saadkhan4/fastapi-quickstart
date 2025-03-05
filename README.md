@@ -1,12 +1,12 @@
-### Fastapi (a python freamwork) starter kit with vscode devcontainers support
+### Fastapi (a python framework) starter kit with vscode dev-containers support
 
-**Requirments**:
+**Requirements**:
 - Install [Docker](https://www.docker.com/)
 - Install [Visual Studio Code](https://code.visualstudio.com/)
-- Install VS Code Extention [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+- Install VS Code Extenction [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 **Run**:
-Now open in **Dev Container**, See image below for instrction:
+“Open the project in a Dev Container and follow the instructions in the image below:”
 ![Dev Container Instruction](https://github.com/user-attachments/assets/e9b74691-8a57-4d16-a9a7-529e4191d39e)
 
 Thats it, now you can access server on  http://localhost:8000 and for api docs open http://localhost:8000/docs
